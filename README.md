@@ -51,5 +51,8 @@ Adela Software and Service Pvt Ltd   | 10/2024 - 11/2025
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakKumarDharmaraj&show_icons=true)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakKumarDharmaraj&show_icons=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakKumarDharmaraj&layout=compact)
