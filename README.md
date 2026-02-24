@@ -45,4 +45,4 @@ Adela Software and Service Pvt Ltd   | 10/2024 - 11/2025
 ## 📫 Connect
 
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: (Add later)
+- LinkedIn: https://www.linkedin.com/in/d-deepak2003
