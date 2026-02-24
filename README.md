@@ -46,11 +46,3 @@ Adela Software and Service Pvt Ltd   | 10/2024 - 11/2025
 
 - GitHub: https://github.com/DeepakKumarDharmaraj
 - LinkedIn: https://www.linkedin.com/in/d-deepak2003
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakKumarDharmaraj&show_icons=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakKumarDharmaraj&layout=compact)
