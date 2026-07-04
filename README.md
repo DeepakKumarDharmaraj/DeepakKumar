@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">Software Engineer | C++ Developer | DSA Learner | Aspiring Game Developer 🎮</h3>
+<h3 align="center">Software Engineer | C++ Developer | DSA Learner </h3>
 
 ---
 
@@ -7,7 +7,6 @@
 
 - 💻 Focused on mastering **C++ and Data Structures & Algorithms**
 - 🧠 Strengthening problem-solving and system thinking
-- 🎯 Aspiring Software Engineer with long-term interest in game development
 - 📈 Committed to consistent improvement and disciplined growth
 - 📍 India
 
