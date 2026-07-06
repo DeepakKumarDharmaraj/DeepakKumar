@@ -45,3 +45,4 @@ Adela Software and Service Pvt Ltd   | 10/2024 - 11/2025
 
 - GitHub: https://github.com/DeepakKumarDharmaraj
 - LinkedIn: https://www.linkedin.com/in/d-deepak2003
+- Certificate: https://drive.google.com/file/d/16l5UkWrE4965OH-eW9ewccX1ztrp851P/view?usp=drive_link
